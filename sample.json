@@ -1,0 +1,6 @@
+{"log":"2024-04-25T13:41:12+08:00 [36WNC9798WoBhGgn] 192.168.99.13 POST /jupiter-alert/middleware/grafana101 404 22.289µs 1255 24 Grafana\n","stream":"stdout","time":"2024-04-25T05:41:12.200221246Z"}
+{"log":"  at com.xxx.blah errrr\n","stream":"stdout","time":"2024-04-25T05:41:12.200231591Z"}
+{"log":"  at com.xxx.blahblah errrr\n","stream":"stdout","time":"2024-04-25T05:41:12.200324027Z"}
+{"log":"  at com.xxx.blahblahblah errrrrrrrr\n","stream":"stdout","time":"2024-04-25T05:41:12.200324057Z"}
+{"log":"2024-04-25T13:41:12+08:00 [5rlpcXDI9g2c75Yc] 10.233.68.1 GET / 200 27.815µs 0 9 kube-probe/1.27\n","stream":"stdout","time":"2024-04-25T05:41:12.88372941Z"}
+{"log":"2024-04-25T13:41:13+08:00 [9Mq8bWh7mR5P232j] 10.233.68.1 GET / 200 40.784µs 0 9 kube-probe/1.27\n","stream":"stdout","time":"2024-04-25T05:41:13.713744367Z"}
